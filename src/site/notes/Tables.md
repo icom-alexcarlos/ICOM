@@ -5,7 +5,7 @@
 
 | Bacteria                |     |
 | ----------------------- | --- |
-| Clostridium tetani      |     |
+| [[Clostridium tetani\|Clostridium tetani]]  |     |
 | Clostridium botulinum   |     |
 | Streptococcus pyogenes  |     |
 | Clostridium perfringens |     |
