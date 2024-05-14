@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-1/"}
+{"dg-publish":true,"permalink":"/welcome-1/","tags":["gardenEntry"]}
 ---
 
 This is your new *vault*. !
